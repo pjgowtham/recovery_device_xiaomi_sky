@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_ferrarri.mk
+    $(LOCAL_DIR)/twrp_sky.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ferrarri-eng
+    twrp_sky-eng
